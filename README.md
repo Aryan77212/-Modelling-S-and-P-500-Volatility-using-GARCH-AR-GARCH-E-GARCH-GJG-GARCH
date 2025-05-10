@@ -1,0 +1,1 @@
+# -Modelling-S-and-P-500-Volatility-using-GARCH-AR-GARCH-E-GARCH-GJG-GARCH
